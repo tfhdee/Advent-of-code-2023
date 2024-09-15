@@ -17,7 +17,7 @@ day_1_data_task1 <- day_1_data %>%
 # sum of calibration values
 sum(day_1_data_task1$calibration_value) #55488
 
-# Day 2-------------------------------------------------------------------------
+# Day 1 pt 2 -------------------------------------------------------------------
 
 day_1_part_2 <- day_1_data %>%
   mutate(day_one_alt = day_one %>%
@@ -40,3 +40,25 @@ day_1_part_2_answer <- day_1_part_2 %>%
 
 # sum of calibration values
 sum(day_1_part_2_answer$calibration_value) #55614
+
+#day 2 -------------------------------------------------------------------------
+
+day_2_data <- readLines("C:/Users/thoma/OneDrive/Documents/R/Advent-of-code-2023/AOC_day_two.txt")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
